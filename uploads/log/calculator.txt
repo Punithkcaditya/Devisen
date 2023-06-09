@@ -1,0 +1,3544 @@
+Array
+(
+    [trade_date] => 2021-08-27
+    [spot_date] => 2021-08-31
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-08-27
+    [spot_date] => 2021-08-31
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-08-27
+    [spot_date] => 2021-08-31
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-07-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-09-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-09-31
+)
+Array
+(
+    [trade_date] => 2021-01-16
+    [spot_date] => 2021-01-20
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-09-31
+)
+Array
+(
+    [trade_date] => 2021-08-28
+    [spot_date] => 2021-08-31
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-08-28
+    [spot_date] => 2021-08-31
+    [cover_type] => 1
+    [currency] => USDJPY
+    [forward_date] => 2021-08-31
+)
+Array
+(
+    [trade_date] => 2021-08-29
+    [spot_date] => 2021-09-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-15
+)
+Array
+(
+    [trade_date] => 2021-08-29
+    [spot_date] => 2021-09-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-01-15
+)
+Array
+(
+    [trade_date] => 2021-08-29
+    [spot_date] => 2021-09-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-01-15
+)
+Array
+(
+    [trade_date] => 2021-08-29
+    [spot_date] => 2021-09-01
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2022-01-15
+)
+Array
+(
+    [trade_date] => 2021-08-30
+    [spot_date] => 2021-09-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-30
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-10-06
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-10-09
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-10-06
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-08-31
+    [spot_date] => 2021-09-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-03
+)
+Array
+(
+    [trade_date] => 2021-09-01
+    [spot_date] => 2021-09-04
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-12-20
+)
+Array
+(
+    [trade_date] => 2021-09-07
+    [spot_date] => 2021-09-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-23
+)
+Array
+(
+    [trade_date] => 2021-09-07
+    [spot_date] => 2021-09-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-23
+)
+Array
+(
+    [trade_date] => 2021-09-16
+    [spot_date] => 2021-09-21
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-10-29
+)
+Array
+(
+    [trade_date] => 2021-09-21
+    [spot_date] => 2021-09-24
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-10-29
+)
+Array
+(
+    [trade_date] => 2021-09-22
+    [spot_date] => 2021-09-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-22
+)
+Array
+(
+    [trade_date] => 2021-09-22
+    [spot_date] => 2021-09-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-01-22
+)
+Array
+(
+    [trade_date] => 2021-09-28
+    [spot_date] => 2021-10-01
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-10-29
+)
+Array
+(
+    [trade_date] => 2021-09-30
+    [spot_date] => 2021-10-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-17
+)
+Array
+(
+    [trade_date] => 2021-09-30
+    [spot_date] => 2021-10-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-07
+)
+Array
+(
+    [trade_date] => 2021-10-07
+    [spot_date] => 2021-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-31
+)
+Array
+(
+    [trade_date] => 2021-10-07
+    [spot_date] => 2021-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-03-31
+)
+Array
+(
+    [trade_date] => 2021-10-07
+    [spot_date] => 2021-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-03-31
+)
+Array
+(
+    [trade_date] => 2021-10-07
+    [spot_date] => 2021-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-03-31
+)
+Array
+(
+    [trade_date] => 2021-10-07
+    [spot_date] => 2021-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-31
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-12-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2021-10-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2021-10-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2021-11-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2021-12-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2021-12-18
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-12-15
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-01-15
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-01-15
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-01-15
+)
+Array
+(
+    [trade_date] => 2021-10-18
+    [spot_date] => 2021-10-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-01-15
+)
+Array
+(
+    [trade_date] => 2021-10-20
+    [spot_date] => 2021-10-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-01-14
+)
+Array
+(
+    [trade_date] => 2021-10-20
+    [spot_date] => 2021-10-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-10-27
+)
+Array
+(
+    [trade_date] => 2021-10-20
+    [spot_date] => 2021-10-23
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2021-10-27
+)
+Array
+(
+    [trade_date] => 2021-10-21
+    [spot_date] => 2021-10-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-21
+)
+Array
+(
+    [trade_date] => 2021-10-28
+    [spot_date] => 2021-11-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-10-28
+)
+Array
+(
+    [trade_date] => 2021-10-28
+    [spot_date] => 2021-11-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-10-01
+)
+Array
+(
+    [trade_date] => 2021-10-28
+    [spot_date] => 2021-11-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-04
+)
+Array
+(
+    [trade_date] => 2021-11-02
+    [spot_date] => 2021-11-05
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-22
+)
+Array
+(
+    [trade_date] => 2021-11-03
+    [spot_date] => 2021-11-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-15
+)
+Array
+(
+    [trade_date] => 2021-11-03
+    [spot_date] => 2021-11-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-06
+)
+Array
+(
+    [trade_date] => 2021-11-03
+    [spot_date] => 2021-11-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-15
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-20
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-08
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-14
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-18
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-22
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-29
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-25
+)
+Array
+(
+    [trade_date] => 2021-11-25
+    [spot_date] => 2021-11-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-11-25
+)
+Array
+(
+    [trade_date] => 2021-11-26
+    [spot_date] => 2021-11-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-11-26
+)
+Array
+(
+    [trade_date] => 2021-11-26
+    [spot_date] => 2021-11-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-10
+)
+Array
+(
+    [trade_date] => 2021-11-26
+    [spot_date] => 2021-11-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-10
+)
+Array
+(
+    [trade_date] => 2021-11-29
+    [spot_date] => 2021-12-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-10
+)
+Array
+(
+    [trade_date] => 2021-11-29
+    [spot_date] => 2021-12-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-10
+)
+Array
+(
+    [trade_date] => 2021-11-29
+    [spot_date] => 2021-12-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-17
+)
+Array
+(
+    [trade_date] => 2021-11-29
+    [spot_date] => 2021-12-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-06
+)
+Array
+(
+    [trade_date] => 2021-11-29
+    [spot_date] => 2021-12-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-02
+)
+Array
+(
+    [trade_date] => 2021-11-29
+    [spot_date] => 2021-12-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-02
+)
+Array
+(
+    [trade_date] => 2021-12-06
+    [spot_date] => 2021-12-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-11
+)
+Array
+(
+    [trade_date] => 2021-12-06
+    [spot_date] => 2021-12-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-10
+)
+Array
+(
+    [trade_date] => 2021-12-06
+    [spot_date] => 2021-12-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-10
+)
+Array
+(
+    [trade_date] => 2021-12-06
+    [spot_date] => 2021-12-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-31
+)
+Array
+(
+    [trade_date] => 2021-12-07
+    [spot_date] => 2021-12-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-31
+)
+Array
+(
+    [trade_date] => 2021-12-08
+    [spot_date] => 2021-12-11
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-25
+)
+Array
+(
+    [trade_date] => 2021-12-15
+    [spot_date] => 2021-12-18
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-13
+)
+Array
+(
+    [trade_date] => 2021-12-15
+    [spot_date] => 2021-12-18
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-10
+)
+Array
+(
+    [trade_date] => 2021-12-15
+    [spot_date] => 2021-12-18
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-08
+)
+Array
+(
+    [trade_date] => 2021-12-15
+    [spot_date] => 2021-12-18
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-06
+)
+Array
+(
+    [trade_date] => 2021-12-15
+    [spot_date] => 2021-12-18
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-03
+)
+Array
+(
+    [trade_date] => 2021-12-20
+    [spot_date] => 2021-12-23
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-20
+)
+Array
+(
+    [trade_date] => 2021-12-20
+    [spot_date] => 2021-12-23
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-20
+)
+Array
+(
+    [trade_date] => 2021-12-20
+    [spot_date] => 2021-12-23
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-20
+)
+Array
+(
+    [trade_date] => 2021-12-20
+    [spot_date] => 2021-12-23
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2021-12-20
+)
+Array
+(
+    [trade_date] => 2021-12-20
+    [spot_date] => 2021-12-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2021-12-21
+)
+Array
+(
+    [trade_date] => 2021-12-27
+    [spot_date] => 2021-12-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-05
+)
+Array
+(
+    [trade_date] => 2021-12-30
+    [spot_date] => 2022-01-04
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-30
+)
+Array
+(
+    [trade_date] => 2021-12-30
+    [spot_date] => 2022-01-04
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-03-14
+)
+Array
+(
+    [trade_date] => 2022-01-02
+    [spot_date] => 2022-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-01-02
+)
+Array
+(
+    [trade_date] => 2022-01-06
+    [spot_date] => 2022-01-11
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-01-06
+)
+Array
+(
+    [trade_date] => 2022-01-12
+    [spot_date] => 2022-01-15
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-11
+)
+Array
+(
+    [trade_date] => 2022-01-31
+    [spot_date] => 2022-02-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-02-18
+)
+Array
+(
+    [trade_date] => 2022-02-02
+    [spot_date] => 2022-02-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-20
+)
+Array
+(
+    [trade_date] => 2022-02-02
+    [spot_date] => 2022-02-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-20
+)
+Array
+(
+    [trade_date] => 2022-02-02
+    [spot_date] => 2022-02-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-20
+)
+Array
+(
+    [trade_date] => 2022-02-10
+    [spot_date] => 2022-02-15
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-04
+)
+Array
+(
+    [trade_date] => 2022-02-11
+    [spot_date] => 2022-02-15
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2022-03-10
+)
+Array
+(
+    [trade_date] => 2022-02-11
+    [spot_date] => 2022-02-15
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-18
+)
+Array
+(
+    [trade_date] => 2022-02-14
+    [spot_date] => 2022-02-17
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2022-03-10
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-30
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-29
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-04-29
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-05-31
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-31
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-05-31
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-31
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-29
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-29
+)
+Array
+(
+    [trade_date] => 2022-03-07
+    [spot_date] => 2022-03-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-29
+)
+Array
+(
+    [trade_date] => 2022-03-23
+    [spot_date] => 2022-03-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-21
+)
+Array
+(
+    [trade_date] => 2022-03-23
+    [spot_date] => 2022-03-26
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-04-23
+)
+Array
+(
+    [trade_date] => 2022-03-28
+    [spot_date] => 2022-03-31
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-18
+)
+Array
+(
+    [trade_date] => 2022-03-30
+    [spot_date] => 2022-04-02
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-04-16
+)
+Array
+(
+    [trade_date] => 2022-03-31
+    [spot_date] => 2022-04-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-05
+)
+Array
+(
+    [trade_date] => 2022-03-31
+    [spot_date] => 2022-04-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-01
+)
+Array
+(
+    [trade_date] => 2022-04-05
+    [spot_date] => 2022-04-08
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-05-09
+)
+Array
+(
+    [trade_date] => 2022-04-05
+    [spot_date] => 2022-04-08
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-05-12
+)
+Array
+(
+    [trade_date] => 2022-04-06
+    [spot_date] => 2022-04-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-15
+)
+Array
+(
+    [trade_date] => 2022-04-07
+    [spot_date] => 2022-04-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-20
+)
+Array
+(
+    [trade_date] => 2022-04-07
+    [spot_date] => 2022-04-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-20
+)
+Array
+(
+    [trade_date] => 2022-04-11
+    [spot_date] => 2022-04-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-22
+)
+Array
+(
+    [trade_date] => 2022-04-11
+    [spot_date] => 2022-04-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-12
+)
+Array
+(
+    [trade_date] => 2022-04-11
+    [spot_date] => 2022-04-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-10-06
+)
+Array
+(
+    [trade_date] => 2022-04-13
+    [spot_date] => 2022-04-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-31
+)
+Array
+(
+    [trade_date] => 2022-04-18
+    [spot_date] => 2022-04-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-08
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-30
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-25
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-20
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-25
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-25
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-30
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-30
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-30
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-10
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-29
+)
+Array
+(
+    [trade_date] => 2022-04-21
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-30
+)
+Array
+(
+    [trade_date] => 2022-04-22
+    [spot_date] => 2022-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-02
+)
+Array
+(
+    [trade_date] => 2022-04-25
+    [spot_date] => 2022-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-10
+)
+Array
+(
+    [trade_date] => 2022-04-25
+    [spot_date] => 2022-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-30
+)
+Array
+(
+    [trade_date] => 2022-04-25
+    [spot_date] => 2022-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-25
+)
+Array
+(
+    [trade_date] => 2022-04-25
+    [spot_date] => 2022-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-30
+)
+Array
+(
+    [trade_date] => 2022-04-25
+    [spot_date] => 2022-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-04-25
+)
+Array
+(
+    [trade_date] => 2022-04-25
+    [spot_date] => 2022-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-20
+)
+Array
+(
+    [trade_date] => 2022-04-28
+    [spot_date] => 2022-05-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-31
+)
+Array
+(
+    [trade_date] => 2022-05-04
+    [spot_date] => 2022-05-07
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-30
+)
+Array
+(
+    [trade_date] => 2022-05-05
+    [spot_date] => 2022-05-10
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-06-05
+)
+Array
+(
+    [trade_date] => 2022-05-05
+    [spot_date] => 2022-05-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-05
+)
+Array
+(
+    [trade_date] => 2022-05-12
+    [spot_date] => 2022-05-17
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-19
+)
+Array
+(
+    [trade_date] => 2022-05-12
+    [spot_date] => 2022-05-17
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-25
+)
+Array
+(
+    [trade_date] => 2022-05-15
+    [spot_date] => 2022-05-18
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-05-15
+)
+Array
+(
+    [trade_date] => 2022-05-15
+    [spot_date] => 2022-05-18
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-05-15
+)
+Array
+(
+    [trade_date] => 2022-05-15
+    [spot_date] => 2022-05-18
+    [cover_type] => 1
+    [currency] => GBPUSD
+    [forward_date] => 2022-05-15
+)
+Array
+(
+    [trade_date] => 2022-05-19
+    [spot_date] => 2022-05-24
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-28
+)
+Array
+(
+    [trade_date] => 2022-05-31
+    [spot_date] => 2022-06-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-31
+)
+Array
+(
+    [trade_date] => 2022-05-31
+    [spot_date] => 2022-06-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-31
+)
+Array
+(
+    [trade_date] => 2022-05-31
+    [spot_date] => 2022-06-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-31
+)
+Array
+(
+    [trade_date] => 2022-05-31
+    [spot_date] => 2022-06-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-31
+)
+Array
+(
+    [trade_date] => 2022-05-31
+    [spot_date] => 2022-06-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-07-22
+)
+Array
+(
+    [trade_date] => 2022-06-02
+    [spot_date] => 2022-06-07
+    [cover_type] => 1
+    [currency] => EURUSD
+    [forward_date] => 2022-07-13
+)
+Array
+(
+    [trade_date] => 2022-06-08
+    [spot_date] => 2022-06-11
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-05-31
+)
+Array
+(
+    [trade_date] => 2022-06-09
+    [spot_date] => 2022-06-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-23
+)
+Array
+(
+    [trade_date] => 2022-06-09
+    [spot_date] => 2022-06-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-30
+)
+Array
+(
+    [trade_date] => 2022-06-09
+    [spot_date] => 2022-06-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-02-06
+)
+Array
+(
+    [trade_date] => 2022-06-09
+    [spot_date] => 2022-06-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-30
+)
+Array
+(
+    [trade_date] => 2022-06-16
+    [spot_date] => 2022-06-21
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-06-16
+)
+Array
+(
+    [trade_date] => 2022-06-16
+    [spot_date] => 2022-06-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-06-16
+)
+Array
+(
+    [trade_date] => 2022-06-16
+    [spot_date] => 2022-06-21
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-09-16
+)
+Array
+(
+    [trade_date] => 2022-06-16
+    [spot_date] => 2022-06-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-16
+)
+Array
+(
+    [trade_date] => 2022-06-29
+    [spot_date] => 2022-07-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-10-29
+)
+Array
+(
+    [trade_date] => 2022-06-29
+    [spot_date] => 2022-07-02
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-10-20
+)
+Array
+(
+    [trade_date] => 2022-07-01
+    [spot_date] => 2022-07-05
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-07-31
+)
+Array
+(
+    [trade_date] => 2022-07-01
+    [spot_date] => 2022-07-05
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-07-31
+)
+Array
+(
+    [trade_date] => 2022-07-01
+    [spot_date] => 2022-07-05
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-11-15
+)
+Array
+(
+    [trade_date] => 2022-07-04
+    [spot_date] => 2022-07-07
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-07-04
+)
+Array
+(
+    [trade_date] => 2022-07-05
+    [spot_date] => 2022-07-08
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-11-15
+)
+Array
+(
+    [trade_date] => 2022-07-07
+    [spot_date] => 2022-07-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-10-07
+)
+Array
+(
+    [trade_date] => 2022-07-12
+    [spot_date] => 2022-07-15
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-07-12
+)
+Array
+(
+    [trade_date] => 2022-07-12
+    [spot_date] => 2022-07-15
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-12
+)
+Array
+(
+    [trade_date] => 2022-07-12
+    [spot_date] => 2022-07-15
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-11
+)
+Array
+(
+    [trade_date] => 2022-07-14
+    [spot_date] => 2022-07-19
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-08-14
+)
+Array
+(
+    [trade_date] => 2022-07-15
+    [spot_date] => 2022-07-19
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-07-15
+)
+Array
+(
+    [trade_date] => 2022-07-15
+    [spot_date] => 2022-07-19
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-07-15
+)
+Array
+(
+    [trade_date] => 2022-07-20
+    [spot_date] => 2022-07-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-20
+)
+Array
+(
+    [trade_date] => 2022-07-21
+    [spot_date] => 2022-07-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-15
+)
+Array
+(
+    [trade_date] => 2022-07-25
+    [spot_date] => 2022-07-28
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-07-25
+)
+Array
+(
+    [trade_date] => 2022-07-25
+    [spot_date] => 2022-07-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-31
+)
+Array
+(
+    [trade_date] => 2022-07-25
+    [spot_date] => 2022-07-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-31
+)
+Array
+(
+    [trade_date] => 2022-07-25
+    [spot_date] => 2022-07-28
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-08-05
+)
+Array
+(
+    [trade_date] => 2022-07-25
+    [spot_date] => 2022-07-28
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-08-11
+)
+Array
+(
+    [trade_date] => 2022-07-27
+    [spot_date] => 2022-07-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-30
+)
+Array
+(
+    [trade_date] => 2022-07-27
+    [spot_date] => 2022-07-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-30
+)
+Array
+(
+    [trade_date] => 2022-07-27
+    [spot_date] => 2022-07-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-30
+)
+Array
+(
+    [trade_date] => 2022-07-27
+    [spot_date] => 2022-07-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-10-30
+)
+Array
+(
+    [trade_date] => 2022-07-27
+    [spot_date] => 2022-07-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-30
+)
+Array
+(
+    [trade_date] => 2022-07-29
+    [spot_date] => 2022-08-02
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-08-08
+)
+Array
+(
+    [trade_date] => 2022-08-12
+    [spot_date] => 2022-08-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-12
+)
+Array
+(
+    [trade_date] => 2022-08-12
+    [spot_date] => 2022-08-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-08-12
+)
+Array
+(
+    [trade_date] => 2022-08-12
+    [spot_date] => 2022-08-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-10-17
+)
+Array
+(
+    [trade_date] => 2022-08-17
+    [spot_date] => 2022-08-20
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-15
+)
+Array
+(
+    [trade_date] => 2022-08-18
+    [spot_date] => 2022-08-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-31
+)
+Array
+(
+    [trade_date] => 2022-08-23
+    [spot_date] => 2022-08-26
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-09-30
+)
+Array
+(
+    [trade_date] => 2022-08-23
+    [spot_date] => 2022-08-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-09-30
+)
+Array
+(
+    [trade_date] => 2022-08-25
+    [spot_date] => 2022-08-30
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-10-29
+)
+Array
+(
+    [trade_date] => 2022-08-27
+    [spot_date] => 2022-08-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-09-22
+)
+Array
+(
+    [trade_date] => 2022-08-29
+    [spot_date] => 2022-09-01
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2022-10-31
+)
+Array
+(
+    [trade_date] => 2022-08-29
+    [spot_date] => 2022-09-01
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2022-12-31
+)
+Array
+(
+    [trade_date] => 2022-09-01
+    [spot_date] => 2022-09-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-09-09
+)
+Array
+(
+    [trade_date] => 2022-09-12
+    [spot_date] => 2022-09-15
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-11-14
+)
+Array
+(
+    [trade_date] => 2022-09-13
+    [spot_date] => 2022-09-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-13
+)
+Array
+(
+    [trade_date] => 2022-09-13
+    [spot_date] => 2022-09-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-13
+)
+Array
+(
+    [trade_date] => 2022-09-13
+    [spot_date] => 2022-09-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-13
+)
+Array
+(
+    [trade_date] => 2022-09-13
+    [spot_date] => 2022-09-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-02-13
+)
+Array
+(
+    [trade_date] => 2022-09-13
+    [spot_date] => 2022-09-16
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-09-13
+)
+Array
+(
+    [trade_date] => 2022-09-13
+    [spot_date] => 2022-09-16
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-03-13
+)
+Array
+(
+    [trade_date] => 2022-09-20
+    [spot_date] => 2022-09-23
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-20
+)
+Array
+(
+    [trade_date] => 2022-09-28
+    [spot_date] => 2022-10-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-31
+)
+Array
+(
+    [trade_date] => 2022-10-03
+    [spot_date] => 2022-10-06
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-03
+)
+Array
+(
+    [trade_date] => 2022-10-03
+    [spot_date] => 2022-10-06
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-02-16
+)
+Array
+(
+    [trade_date] => 2022-10-09
+    [spot_date] => 2022-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-31
+)
+Array
+(
+    [trade_date] => 2022-10-09
+    [spot_date] => 2022-10-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-31
+)
+Array
+(
+    [trade_date] => 2022-10-20
+    [spot_date] => 2022-10-25
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-11-11
+)
+Array
+(
+    [trade_date] => 2022-10-28
+    [spot_date] => 2022-11-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-18
+)
+Array
+(
+    [trade_date] => 2022-11-02
+    [spot_date] => 2022-11-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-05-02
+)
+Array
+(
+    [trade_date] => 2022-11-09
+    [spot_date] => 2022-11-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-09
+)
+Array
+(
+    [trade_date] => 2022-11-09
+    [spot_date] => 2022-11-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-09
+)
+Array
+(
+    [trade_date] => 2022-11-09
+    [spot_date] => 2022-11-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-09
+)
+Array
+(
+    [trade_date] => 2022-11-09
+    [spot_date] => 2022-11-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-07
+)
+Array
+(
+    [trade_date] => 2022-11-09
+    [spot_date] => 2022-11-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-09
+)
+Array
+(
+    [trade_date] => 2022-11-09
+    [spot_date] => 2022-11-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-15
+)
+Array
+(
+    [trade_date] => 2022-11-23
+    [spot_date] => 2022-11-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-05-12
+)
+Array
+(
+    [trade_date] => 2022-11-28
+    [spot_date] => 2022-12-01
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-31
+)
+Array
+(
+    [trade_date] => 2022-11-28
+    [spot_date] => 2022-12-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-28
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-17
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-23
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-02-03
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-02-17
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-06
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-11-30
+)
+Array
+(
+    [trade_date] => 2022-11-30
+    [spot_date] => 2022-12-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-12-30
+)
+Array
+(
+    [trade_date] => 2022-12-01
+    [spot_date] => 2022-12-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-17
+)
+Array
+(
+    [trade_date] => 2022-12-01
+    [spot_date] => 2022-12-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-23
+)
+Array
+(
+    [trade_date] => 2022-12-01
+    [spot_date] => 2022-12-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-03
+)
+Array
+(
+    [trade_date] => 2022-12-02
+    [spot_date] => 2022-12-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-02
+)
+Array
+(
+    [trade_date] => 2022-12-03
+    [spot_date] => 2022-12-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-03
+)
+Array
+(
+    [trade_date] => 2022-12-03
+    [spot_date] => 2022-12-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-03
+)
+Array
+(
+    [trade_date] => 2022-12-05
+    [spot_date] => 2022-12-08
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-05
+)
+Array
+(
+    [trade_date] => 2022-12-05
+    [spot_date] => 2022-12-08
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-05
+)
+Array
+(
+    [trade_date] => 2022-12-05
+    [spot_date] => 2022-12-08
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-05
+)
+Array
+(
+    [trade_date] => 2022-12-07
+    [spot_date] => 2022-12-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-31
+)
+Array
+(
+    [trade_date] => 2022-12-08
+    [spot_date] => 2022-12-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-08
+)
+Array
+(
+    [trade_date] => 2022-12-08
+    [spot_date] => 2022-12-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-31
+)
+Array
+(
+    [trade_date] => 2022-12-09
+    [spot_date] => 2022-12-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2022-12-12
+    [spot_date] => 2022-12-15
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-14
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-19
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-25
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-31
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-31
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-02-20
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2022-12-14
+    [spot_date] => 2022-12-17
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2022-12-15
+    [spot_date] => 2022-12-20
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2022-12-16
+    [spot_date] => 2022-12-20
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-15
+)
+Array
+(
+    [trade_date] => 2022-12-19
+    [spot_date] => 2022-12-22
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-12-19
+)
+Array
+(
+    [trade_date] => 2022-12-19
+    [spot_date] => 2022-12-22
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2022-12-19
+)
+Array
+(
+    [trade_date] => 2022-12-20
+    [spot_date] => 2022-12-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-18
+)
+Array
+(
+    [trade_date] => 2022-12-21
+    [spot_date] => 2022-12-24
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-21
+)
+Array
+(
+    [trade_date] => 2022-12-21
+    [spot_date] => 2022-12-24
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-20
+)
+Array
+(
+    [trade_date] => 2022-12-21
+    [spot_date] => 2022-12-24
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-20
+)
+Array
+(
+    [trade_date] => 2022-12-21
+    [spot_date] => 2022-12-24
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-20
+)
+Array
+(
+    [trade_date] => 2022-12-22
+    [spot_date] => 2022-12-27
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-31
+)
+Array
+(
+    [trade_date] => 2022-12-22
+    [spot_date] => 2022-12-27
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2023-06-13
+)
+Array
+(
+    [trade_date] => 2022-12-22
+    [spot_date] => 2022-12-27
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2023-06-13
+)
+Array
+(
+    [trade_date] => 2022-12-22
+    [spot_date] => 2022-12-27
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-30
+)
+Array
+(
+    [trade_date] => 2022-12-28
+    [spot_date] => 2022-12-31
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2022-12-28
+    [spot_date] => 2022-12-31
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-26
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-29
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-30
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2024-03-06
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2024-03-06
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2024-03-06
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-10-25
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2024-07-20
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2024-07-20
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-20
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-07-20
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-20
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-24
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-22
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-22
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-31
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-05-31
+)
+Array
+(
+    [trade_date] => 2022-12-29
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2022-12-29
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2022-12-30
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2023-03-25
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-04-25
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2023-04-25
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-04-25
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-09-21
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-09-21
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-09-21
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-09-21
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-09-21
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-09-29
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => JPYINR
+    [forward_date] => 2023-01-03
+)
+Array
+(
+    [trade_date] => 2022-12-30
+    [spot_date] => 2023-01-03
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-03
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-09-01
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-01
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-06-30
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-30
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-30
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-25
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-25
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-17
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-06-16
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2023-05-15
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-05-15
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-06-15
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-07-15
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-10-15
+)
+Array
+(
+    [trade_date] => 2023-01-02
+    [spot_date] => 2023-01-05
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2023-08-16
+)
+Array
+(
+    [trade_date] => 2023-01-03
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-03
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-03
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-29
+)
+Array
+(
+    [trade_date] => 2023-01-03
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-30
+)
+Array
+(
+    [trade_date] => 2023-01-03
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-03
+)
+Array
+(
+    [trade_date] => 2023-01-03
+    [spot_date] => 2023-01-06
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-07
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-04
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-04
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2023-11-13
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 2
+    [currency] => GBPINR
+    [forward_date] => 2023-10-11
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-11-13
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2023-07-15
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-07-29
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2023-07-29
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 2
+    [currency] => EURINR
+    [forward_date] => 2023-07-29
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2023-06-23
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2023-06-23
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-06
+    [cover_type] => 1
+    [currency] => EURINR
+    [forward_date] => 2023-06-23
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-07
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-07
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-04
+    [spot_date] => 2023-01-07
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-13
+)
+Array
+(
+    [trade_date] => 2023-01-05
+    [spot_date] => 2023-01-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-12-31
+)
+Array
+(
+    [trade_date] => 2023-01-05
+    [spot_date] => 2023-01-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-01-05
+)
+Array
+(
+    [trade_date] => 2023-01-05
+    [spot_date] => 2023-01-10
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-05-05
+)
+Array
+(
+    [trade_date] => 2023-01-07
+    [spot_date] => 2023-01-10
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-07
+)
+Array
+(
+    [trade_date] => 2023-01-07
+    [spot_date] => 2023-01-10
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-06-07
+)
+Array
+(
+    [trade_date] => 2023-01-09
+    [spot_date] => 2023-01-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-04-19
+)
+Array
+(
+    [trade_date] => 2023-01-10
+    [spot_date] => 2023-01-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-02-20
+)
+Array
+(
+    [trade_date] => 2023-01-10
+    [spot_date] => 2023-01-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-06-19
+)
+Array
+(
+    [trade_date] => 2023-01-10
+    [spot_date] => 2023-01-12
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-10
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => 2023-01-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-16
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => 2023-01-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-16
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => 2023-01-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-06-19
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => 2023-01-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-06-19
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => Invalid date
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-01-11
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => 2023-01-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-06-19
+)
+Array
+(
+    [trade_date] => 2023-01-11
+    [spot_date] => 2023-01-13
+    [cover_type] => 1
+    [currency] => GBPINR
+    [forward_date] => 2023-06-18
+)
+Array
+(
+    [trade_date] => 2023-01-23
+    [spot_date] => 2023-01-25
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-02-20
+)
+Array
+(
+    [trade_date] => 2023-01-23
+    [spot_date] => 2023-01-25
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-21
+)
+Array
+(
+    [trade_date] => 2023-01-23
+    [spot_date] => 2023-01-25
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-28
+)
+Array
+(
+    [trade_date] => 2023-01-23
+    [spot_date] => 2023-01-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-05-26
+)
+Array
+(
+    [trade_date] => 2023-01-23
+    [spot_date] => 2023-01-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-26
+)
+Array
+(
+    [trade_date] => 2023-01-23
+    [spot_date] => 2023-01-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-28
+)
+Array
+(
+    [trade_date] => 2023-01-24
+    [spot_date] => 2023-01-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-24
+)
+Array
+(
+    [trade_date] => 2023-01-24
+    [spot_date] => 2023-01-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-09-29
+)
+Array
+(
+    [trade_date] => 2023-01-25
+    [spot_date] => 2023-01-28
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-03-28
+)
+Array
+(
+    [trade_date] => 2023-01-30
+    [spot_date] => 2023-02-01
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-22
+)
+Array
+(
+    [trade_date] => 2023-02-07
+    [spot_date] => 2023-02-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-02-07
+)
+Array
+(
+    [trade_date] => 2023-02-07
+    [spot_date] => 2023-02-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-03-20
+)
+Array
+(
+    [trade_date] => 2023-02-07
+    [spot_date] => 2023-02-09
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-20
+)
+Array
+(
+    [trade_date] => 2023-02-09
+    [spot_date] => 2023-02-13
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-09
+)
+Array
+(
+    [trade_date] => 2023-02-09
+    [spot_date] => Invalid date
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-02-09
+)
+Array
+(
+    [trade_date] => 2023-02-09
+    [spot_date] => 2023-02-13
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-07-09
+)
+Array
+(
+    [trade_date] => 2023-02-09
+    [spot_date] => 2023-02-13
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-09
+)
+Array
+(
+    [trade_date] => 2023-02-09
+    [spot_date] => 2023-02-13
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-05-16
+)
+Array
+(
+    [trade_date] => 2023-02-20
+    [spot_date] => 2023-02-22
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-20
+)
+Array
+(
+    [trade_date] => 2023-02-20
+    [spot_date] => 2023-02-22
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-20
+)
+Array
+(
+    [trade_date] => 2023-02-21
+    [spot_date] => 2023-02-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-17
+)
+Array
+(
+    [trade_date] => 2023-02-21
+    [spot_date] => 2023-02-23
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-21
+)
+Array
+(
+    [trade_date] => 2023-02-22
+    [spot_date] => 2023-02-24
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-04-22
+)
+Array
+(
+    [trade_date] => 2023-02-24
+    [spot_date] => 2023-02-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-24
+)
+Array
+(
+    [trade_date] => 2023-03-10
+    [spot_date] => 2023-03-14
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-10
+)
+Array
+(
+    [trade_date] => 2023-03-17
+    [spot_date] => 2023-03-21
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-17
+)
+Array
+(
+    [trade_date] => 2023-03-24
+    [spot_date] => 2023-03-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-09-24
+)
+Array
+(
+    [trade_date] => 2023-03-26
+    [spot_date] => 2023-03-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-15
+)
+Array
+(
+    [trade_date] => 2023-03-28
+    [spot_date] => 2023-03-30
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-04-21
+)
+Array
+(
+    [trade_date] => 2023-04-10
+    [spot_date] => 2023-04-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-04-21
+)
+Array
+(
+    [trade_date] => 2023-04-10
+    [spot_date] => 2023-04-12
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-07-06
+)
+Array
+(
+    [trade_date] => 2023-04-20
+    [spot_date] => 2023-04-24
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-10-20
+)
+Array
+(
+    [trade_date] => 2023-04-21
+    [spot_date] => 2023-04-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-10-21
+)
+Array
+(
+    [trade_date] => 2023-04-21
+    [spot_date] => 2023-04-25
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-21
+)
+Array
+(
+    [trade_date] => 2023-04-24
+    [spot_date] => 2023-04-26
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-10-24
+)
+Array
+(
+    [trade_date] => 2023-04-25
+    [spot_date] => 2023-04-27
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-20
+)
+Array
+(
+    [trade_date] => 2023-04-26
+    [spot_date] => 2023-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-06-15
+)
+Array
+(
+    [trade_date] => 2023-04-26
+    [spot_date] => 2023-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-10-26
+)
+Array
+(
+    [trade_date] => 2023-04-26
+    [spot_date] => 2023-04-28
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-11-26
+)
+Array
+(
+    [trade_date] => 2023-04-27
+    [spot_date] => 2023-05-02
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-05-10
+)
+Array
+(
+    [trade_date] => 2023-04-27
+    [spot_date] => 2023-05-01
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-10-13
+)
+Array
+(
+    [trade_date] => 2023-04-28
+    [spot_date] => 2023-05-02
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-11-28
+)
+Array
+(
+    [trade_date] => 2023-04-28
+    [spot_date] => 2023-05-02
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-11-28
+)
+Array
+(
+    [trade_date] => 2023-05-02
+    [spot_date] => 2023-05-04
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-08-02
+)
+Array
+(
+    [trade_date] => 2023-05-03
+    [spot_date] => 2023-05-06
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-05-21
+)
+Array
+(
+    [trade_date] => 2023-05-09
+    [spot_date] => 2023-05-11
+    [cover_type] => 1
+    [currency] => USDINR
+    [forward_date] => 2023-07-20
+)
+Array
+(
+    [trade_date] => 2023-05-09
+    [spot_date] => 2023-05-11
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-07-20
+)
+Array
+(
+    [trade_date] => 2023-05-15
+    [spot_date] => 2023-05-17
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-10-03
+)
+Array
+(
+    [trade_date] => 2023-05-17
+    [spot_date] => 2023-05-19
+    [cover_type] => 2
+    [currency] => USDINR
+    [forward_date] => 2023-09-17
+)
