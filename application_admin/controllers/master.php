@@ -764,8 +764,8 @@ $this->master_model->primary_key = array('users_id' => '1432');
                         $registration_ids[] = $cst_data->deviceId;
                 }
 				
-				//$registration_ids = array();
-				//$registration_ids[] = '9TQ1hj0XUeIqeR9ZySYzkwzHZ8ehoJJXE4o9ETAPbsQGatXCjr';
+				$registration_ids = array();
+				$registration_ids[] = 'cu6t5h8YTViYLf6l1PSsYw:APA91bHJtnYYX7L2zttTnW8rTlc-Taq75051eHpuKMuOKDtNGPO_4CQ8WI3p13Uvm1DD5_1etxQTJCbfnv1M52hEOIVLPoXScx6xrI2svLEuvkO2y4XSFxSK65EvF_fUkkLIsvvTK9Mx';
        
                 // API URL
                 $url = 'https://fcm.googleapis.com/fcm/send';
@@ -802,9 +802,7 @@ $this->master_model->primary_key = array('users_id' => '1432');
 				curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
 			
 				$response = curl_exec ($ch);
-				echo "<pre>";
-				var_dump($ch);
-				exit;
+				
 				curl_close($ch);
 				
                 $this->master_model->data = $this->input->post();

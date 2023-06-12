@@ -30,7 +30,6 @@ class Pages extends CI_Controller {
         }
         $permissions = $this->admin_users_accesses_model->get_permisions($user_id, 13);
         $this->permission = array($permissions->add_permission, $permissions->edit_permission, $permissions->delete_permission);
-
         $this->wall_photos_upload_config = array('upload_path' => PAGES_PHOTO_UPLOAD_PATH, 'allowed_types' => 'gif|jpg|png|jpeg');
         $this->upload->initialize($this->wall_photos_upload_config);
     }
