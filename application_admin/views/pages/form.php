@@ -28,7 +28,7 @@
                                                     <select class="form-control" name="type_id" id="type_id">
                                                         <option value="">-- Template Type --</option>
                                                         <?php foreach ($page_type as $row): ?>
-                                                            <option value="<?php echo $row->type_id; ?>" <?php echo (!empty($query->type_id) && $row->type_id == $query->type_id) ? 'selected' : (empty($query->type_id) && $row->type_id == 20) ? 'selected' : ''; ?>><?php echo $row->type_name; ?></option>
+                                                            <option value="<?php echo $row->type_id; ?>" <?php echo ((!empty($query->type_id) && $row->type_id == $query->type_id) || (empty($query->type_id) && $row->type_id == 20)) ? 'selected' : ''; ?>><?php echo $row->type_name; ?></option>
                                                         <?php endforeach ?>
                                                     </select>
                                                 </div>

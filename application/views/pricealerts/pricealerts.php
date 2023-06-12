@@ -38,7 +38,7 @@
 }
 
 .price{
-  font-size: 70px;
+  font-size: 32px;
   color: #0fbcf9;
   margin: 40px 0;
   transition: .2s linear;
@@ -87,59 +87,157 @@
     background-color: #e6f3ff;
 }
 
+#popup {
+  width: 50%;
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    z-index: 9999;
+  }
+
+  /* Popup form styles */
+  #popup form {
+    margin-bottom: 20px;
+    padding: 1em;
+  }
+
+  #popup label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  #closeBtn {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    padding: 5px;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+
+  #popup input[type="text"],
+  #popup input[type="email"],
+  #popup textarea {
+    width: 100%;
+    padding: 5px;
+  }
+
+  #popup button[type="button"] {
+    padding: 5px 10px;
+    background-color: #13326d;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+
+  #popup button[type="button"]:hover {
+    background-color: #13326de6;
+  }
+
+  input, textarea{
+    border: 1px solid #0a2357;
+    margin-bottom: 20px !important;
+  }
+
+  #background-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(8px);
+    z-index: 9998;
+  }
 </style>
 
 
 <div class="pricing-table">
+  <div id="background-overlay"></div>
   <div class="pricing-card">
-    <h3 class="pricing-card-header">Personal</h3>
-    <div class="price"><sup>$</sup>15<span>/MO</span></div>
+    <h3 class="pricing-card-header">Monthly</h3>
+    <div class="price">5,000 <span>INR</span><span>/MO</span></div>
     <ul>
-      <li><strong>3</strong> Websites</li>
-      <li><strong>20 GB</strong> SSD</li>
-      <li><strong>1</strong> Domain Name</li>
-      <li><strong>5</strong> Email</li>
-      <li><strong>1x</strong> CPU & RAM</li>
+      <li>Live Rates</li>
+      <li> Forward Rate Calculator</li>
+      <li>Price Alerts</li>
+      <li>Risk Management Tool</li>
     </ul>
-    <a href="#" class="order-btn">Order Now</a>
+    <button onclick="showPopup()" class="order-btn">Order Now</button>
   </div>
 
   <div class="pricing-card">
-    <h3 class="pricing-card-header">Professional</h3>
-    <div class="price"><sup>$</sup>30<span>/MO</span></div>
+    <h3 class="pricing-card-header">Half Yearly</h3>
+    <div class="price">25,000 <span>INR</span><span>/HY</span></div>
     <ul>
-      <li><strong>10</strong> Websites</li>
-      <li><strong>50 GB</strong> SSD</li>
-      <li><strong>1</strong> Domain Name</li>
-      <li><strong>20</strong> Email</li>
-      <li><strong>1.5x</strong> CPU & RAM</li>
+      <li>Live Rates</li>
+      <li> Forward Rate Calculator</li>
+      <li>Price Alerts</li>
+      <li>Risk Management Tool</li>
     </ul>
-    <a href="#" class="order-btn">Order Now</a>
+    <button onclick="showPopup()" class="order-btn">Order Now</button>
   </div>
 
   <div class="pricing-card">
-    <h3 class="pricing-card-header">Premium</h3>
-    <div class="price"><sup>$</sup>50<span>/MO</span></div>
+    <h3 class="pricing-card-header">Yearly</h3>
+    <div class="price">50,000 <span>INR</span><span>/YR</span></div>
     <ul>
-      <li><strong>30</strong> Websites</li>
-      <li><strong>150 GB</strong> SSD</li>
-      <li><strong>1</strong> Domain Name</li>
-      <li><strong>40</strong> Email</li>
-      <li><strong>2x</strong> CPU & RAM</li>
+      <li>Live Rates</li>
+      <li> Forward Rate Calculator</li>
+      <li>Price Alerts</li>
+      <li>Risk Management Tool</li>
     </ul>
-    <a href="#" class="order-btn">Order Now</a>
+    <button onclick="showPopup()" class="order-btn">Order Now</button>
   </div>
 
-  <div class="pricing-card">
-    <h3 class="pricing-card-header">Ultimate</h3>
-    <div class="price"><sup>$</sup>80<span>/MO</span></div>
-    <ul>
-      <li><strong>100</strong> Websites</li>
-      <li><strong>500 GB</strong> SSD</li>
-      <li><strong>1</strong> Domain Name</li>
-      <li><strong>100</strong> Email</li>
-      <li><strong>4x</strong> CPU & RAM</li>
-    </ul>
-    <a href="#" class="order-btn">Order Now</a>
-  </div>
+  <div id="popup" style="display: none;">
+  <button id="closeBtn" onclick="closePopup()"><strong>X</strong></button>
+
+  <form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" required>
+    <label for="mobile">Mobile Number:</label>
+    <input type="text" id="mobile" required>
+    <label for="email">Email:</label>
+    <input type="email" id="email" required>
+    <label for="comments">Comments:</label>
+    <textarea id="comments" rows="4" required></textarea>
+    <button type="button" onclick="submitForm()">Submit</button>
+  </form>
 </div>
+
+
+</div>
+
+<script>
+  function showPopup() {
+  var popup = document.getElementById("popup");
+  var backgroundOverlay = document.getElementById("background-overlay");
+  popup.style.display = "block";
+  backgroundOverlay.style.display = "block";
+}
+
+function submitForm() {
+  var popup = document.getElementById("popup");
+  popup.style.display = "none";
+  var backgroundOverlay = document.getElementById("background-overlay");
+  backgroundOverlay.style.display = "none";
+}
+
+
+function closePopup() {
+  var popup = document.getElementById("popup");
+  popup.style.display = "none";
+  var backgroundOverlay = document.getElementById("background-overlay");
+  backgroundOverlay.style.display = "none";
+}
+
+</script>
