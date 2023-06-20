@@ -17,7 +17,6 @@ class Logincontroller extends MY_Controller {
         if (!empty($user_id)) {
             redirect('my-account');
 		}
-		
 		$template_path = $this->pagewisecontent('login');
 		$this->data['view_path'] = 'account/login';
 		$data = $this->data;

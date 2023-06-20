@@ -33,7 +33,7 @@
                     <div class="top-links"  data-aos="fade-down" data-aos-duration="1000">
                         <ul>
                             <li><a href="<?php if(isset($user) && $user > 0){ echo "live-market"; } else { echo "login";} ?>"><i class="fa fa-eye"></i> Live Markets</a></li>
-                            <li><a href="<?php if(isset($user) && $user > 0){ echo "calculator"; } else { echo "login";} ?>"><i class="fa fa-calculator"></i> Calculators</a></li>
+                            <!-- <li><a href="<?php if(isset($user) && $user > 0){ echo "calculator"; } else { echo "login";} ?>"><i class="fa fa-calculator"></i> Calculators</a></li> -->
                             <li><a href="<?php if(isset($user) && $user > 0){ echo "broken-calculator"; } else { echo "login";} ?>"><i class="fa fa-bar-chart"></i> Forward Rate Calculator</a></li>
                             <li style="display:none"><a href="<?php if(isset($user) && $user > 0){ echo "live-market"; } else { echo "login";} ?>"><i class="fa fa-bar-chart"></i> Exposure Management</a></li>
                         </ul>

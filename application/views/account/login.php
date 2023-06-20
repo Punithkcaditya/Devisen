@@ -6,11 +6,11 @@
                 <div class="col-lg-8">
 		    <?php
                     $msg = $this->session->flashdata('msg');
+          
                     if (!empty($msg['txt'])):
                         ?>
                         <div class="alert alert-<?php echo $msg['type']; ?>" style="background: gainsboro;">
                             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                            <i class="<?php echo $msg['icon']; ?>"></i>
                             <strong style="color: red;"><?php echo $msg['txt']; ?> </strong>
                         </div>
                     <?php endif ?>
@@ -278,11 +278,10 @@
                         <div class="tab-pane fade show active login" id="login" role="tabpanel" aria-labelledby="nav-home-tab">
                             <?php
                             $msg = $this->session->flashdata('msg');
-                            if (!empty($msg['txt'])):
+                            if (!empty($msg['txt']) ):
                                 ?>
                                 <div class="alert alert-<?php echo $msg['type']; ?>">
                                     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                                    <i class="<?php echo $msg['icon']; ?>"></i>
                                     <strong><?php echo $msg['txt']; ?> </strong>
                                 </div>
                             <?php endif ?>
