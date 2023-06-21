@@ -49,7 +49,15 @@
                                     } else {
                                         $header_menu->menuitem_link = 'login';
                                     }
-                                } ?>
+                                } 
+                                if($header_menu->menuitem_link == 'fx'){
+                                    if(isset($user) && $user > 0){
+                                        $header_menu->menuitem_link = 'fx';
+                                    } else {
+                                        $header_menu->menuitem_link = 'login';
+                                    }
+                                }
+                                ?>
                                 <li><a target="<?php echo $header_menu->menuitem_target; ?>"  href="<?php echo $header_menu->menuitem_link; ?>"><?php echo $header_menu->menuitem_text; ?> <?php echo (!empty($header_menu->submenu)) ? '<i class="fa fa-angle-down">' : ''; ?></i></a>
                                     <?php  if (!empty($header_menu->submenu)):  ?>
                                         <ul >

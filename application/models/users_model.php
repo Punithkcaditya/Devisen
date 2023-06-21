@@ -29,8 +29,8 @@ class Users_Model extends CI_Model {
     }
     public function insert() {	//echo "<pre>";print_r($this->data);exit;		
         $this->db->insert($this->table, $this->data);
-		$this->reset_data();        
-        return true;
+		$this->reset_data();
+        return $this->db->insert_id();         
     }
     public function insertalert() {	//echo "<pre>";print_r($this->data);exit;		
         $this->db->insert('user_alerts', $this->data);

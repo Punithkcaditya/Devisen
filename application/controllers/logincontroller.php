@@ -7,12 +7,12 @@ class Logincontroller extends MY_Controller {
     function __construct() {
         parent::__construct();
 
-		
+		$this->secondDb = $this->load->database('second_db', TRUE);
 		$this->load->model('users_model');
 		$this->load->model('email_templates_model');	
 	}
 
-	public function index($page_slug) {		
+	public function index($page_slug) {	
 		$user_id = $this->session->userdata('login_user_id');
         if (!empty($user_id)) {
             redirect('my-account');
@@ -55,15 +55,29 @@ class Logincontroller extends MY_Controller {
 
         if (!empty($recaptchaResponse)) {
 
-        }else{
-            $msg = array('type' => 'error', 'txt' => "Invalid Captcha...!");
-            $this->session->set_flashdata('msg', $msg);
-            redirect('login');
-            exit;
         }
+		
+		// else{
+        //     $msg = array('type' => 'error', 'txt' => "Invalid Captcha...!");
+        //     $this->session->set_flashdata('msg', $msg);
+        //     redirect('login');
+        //     exit;
+        // }
 unset($_POST['g-recaptcha-response']);
 		$cc=$this->users_model->data = $this->input->post();	
+		$data2 =  $this->input->post();	
+
+		if (array_key_exists('password', $data2)) {
+			$data2['password'] = md5($data2['password']);
+		}
 		
+		if (array_key_exists('full_name', $data2)) {
+			$data2['first_name'] = $data2['full_name'];
+			unset($data2['full_name']);
+		}
+		
+
+
 		if(!empty($cc)){
 
 				//mail sending to admin email by dynamic id code begins here
@@ -73,12 +87,12 @@ unset($_POST['g-recaptcha-response']);
 				
 				//md5 encryption for password				   
 				$this->users_model->data['password'] = md5($this->input->post('password'));
-				$this->users_model->insert();						
-					
+				$insertedId = $this->users_model->insert();										
+				$data2['employee_id'] = $insertedId;
+				$this->secondDb->insert('admin_users', $data2);
 				$a=$this->input->post('email');
 				$b=md5($this->input->post('password'));
 				$c=$this->users_model->loginsearch($a,$b);	
-				
 				//$login_user = (array) $this->users_model->loginAfterOtp($a,$b);
 				//$this->session->set_userdata($login_user);
 $msg = array('type' => 'error', 'txt' => "Registration Successful.Account under review.");
@@ -212,6 +226,14 @@ $msg = array('type' => 'error', 'txt' => "Registration Successful.Account under 
 			 echo "success";
 			 return true;
 		 }  
+	 }
+
+	 public function fxlogin(){
+		$data['email'] = $this->session->userdata('email');
+		$data['password'] = $this->session->userdata('password');
+		// return redirect('https://localhost/FXmanager/admin?login_user=' . urlencode(json_encode($login_user)));
+		$encodedLoginUser = urlencode(json_encode($data));
+		return redirect("https://localhost/FXmanager/admin?login_user={$encodedLoginUser}");
 	 }
 }
 ?>

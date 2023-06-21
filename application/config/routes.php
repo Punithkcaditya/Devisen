@@ -84,6 +84,7 @@ $route['contact-us'] = "contact/index/contact-us";
 
 $route['ajax'] = "ajax";
 
+$route['fx'] = "Logincontroller/fxlogin";
 
 $route['login'] = "Logincontroller/index/login";
 $route['completeregistration'] = "Logincontroller/register";

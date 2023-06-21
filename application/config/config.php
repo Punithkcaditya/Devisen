@@ -43,8 +43,10 @@ $config['base_url'] = 'https://localhost/Devisen/';
 */
 $config['index_page'] = '';
 
-$config['google_key'] = '6Lc-vLMZAAAAAO5R_0ySg1YnCpnf5F3wJLoAoYqS';
-$config['google_secret'] = '6Lc-vLMZAAAAAL8PIeKhgWd_PSZRp9PeZiGrw_Ut';
+// $config['google_key'] = '6Lc-vLMZAAAAAO5R_0ySg1YnCpnf5F3wJLoAoYqS';
+// $config['google_secret'] = '6Lc-vLMZAAAAAL8PIeKhgWd_PSZRp9PeZiGrw_Ut';
+$config['google_key'] = '6LdlvdUiAAAAAJr-ny3exFJdwFI2PvXFAO-dk3St';
+$config['google_secret'] = '6LdlvdUiAAAAAFFGdEWBw9hbLEEfXwm759UfNprd';
 
 /*
 |--------------------------------------------------------------------------
