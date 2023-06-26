@@ -117,6 +117,7 @@ $msg = array('type' => 'error', 'txt' => "Registration Successful.Account under 
         if ($this->form_validation->run() == true) {
 			$a=$this->input->post('user_name');
 			$b=$this->input->post('password');
+		
             $login_user = $this->users_model->loginsearch($a,$b);	
            
             if ($login_user) {

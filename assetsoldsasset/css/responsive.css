@@ -1,0 +1,281 @@
+@media only screen and (max-width: 767px){
+    header#home{
+        position: fixed;
+        left: 0;
+        right: 0;
+        width: 100%;
+        z-index: 10;
+    }
+    .mobile .sticky .logo{
+        display: inline-block;
+        margin:0;
+        position: static;
+        padding-top: 5px;
+    }
+    .mobile .switcher{
+        position: fixed;
+        right: 20px;
+        top: 18px;
+        background-color: transparent;
+        display: inline-block;
+    }
+    .mobile .sticky .logo img{
+        max-width: 170px;
+    }
+    .mobile .sticky .nav{
+        font-size: 18px;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 66px;
+        height: calc(100vh - 66px);
+        max-height: 100vh;
+        overflow: scroll;
+        z-index: 9;
+        transform: translateX(-200%);
+        transition: all ease-in-out .5s;
+        background-color: #fff;
+        flex-wrap: wrap;
+        flex-flow: column-reverse;
+        justify-content: flex-end;
+        z-index: -2;
+        min-width: 100%;
+    }
+    .switcher .c-icon, .switcher.active .m-icon{
+        display: none;
+    }
+    .switcher.active .c-icon, .switcher .m-icon{
+        display: inline-block;
+    }
+    .top-links ul{
+        flex-wrap: wrap;
+    }
+    .top-links, .mobile .sticky .nav>ul{
+        flex-basis: 100%;
+    }
+    .top-links ul li{
+        width: 100%;
+        padding: 0 24px;
+        border-bottom: none !important;
+        margin-bottom: 8px;
+    }
+    .mobile .sticky .nav ul li:hover {
+        background-color: #fe9e12;
+    }
+    .top-links ul li a{
+        display: block !important;
+        width: 100%;
+    }
+    .mobile .sticky .nav.expand{
+        transform: translateX(0%);
+        transition: all ease-in-out .5s;
+    }
+    .slide__content{
+        max-width: 100%;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        margin:20px 0 0 0;
+        padding: 0 10px;
+    }
+    .slide__text{
+        flex-basis: 100%;
+        height: auto;
+        text-align: center;
+    }
+    .slider-container{
+        top: 66px;
+        height: calc(100vh -66px);
+    }
+    .slider_img img{
+        max-height: 265px;
+        width: auto;
+    }
+    .slider{
+        height: calc(100vh - 66px);
+    }
+    .slide__text-heading{
+        margin: .5rem 0;
+        font-size: 22px;
+    }
+    .slide__text-desc{
+        font-size: 14px;
+    }
+    .frame-btn{
+        margin-top: 5px;
+        padding: 18px 24px;
+        font-size: 12px;
+    }
+    .text-banner .tb_wrap .tb_img {
+        flex-basis: 100%;
+    }
+    .text-banner .tb_wrap .tb_text{
+        margin-top: 25px;
+        flex-basis: 100%;
+        background-position: -15px 65px;
+    }
+    .text-banner .tb_wrap .tb_text h2{
+        font-size: 1.5rem;
+    }
+    .text-banner .tb_wrap .tb_text h4{
+        font-size: 24px;
+    }
+    .padding-section {
+        margin-top: 45px;
+    }
+    .slider-pagi{
+        bottom: 25px;
+    }
+    #section-one {
+        padding: 44px 0;
+        padding-bottom: 250px;
+        background-size: 175%;
+    }
+    #section-one .section-text-title:before, #section-one .section-text-title:after{
+        display: none;
+    }
+    .grid-row, .container{
+        margin: 0 10px;
+    }
+    .section-list-wrap ul{
+        margin: 20px 0;
+    }
+    .section-list-wrap .list-type.list-type-splash li{
+        font-size: 14px;
+        line-height: 1.45;
+    }
+    .list-type.list-type-splash li i:after{
+        top: -5px;
+    }
+    .list-type.list-type-splash li i:before{
+        top:8px;
+    }
+    .list-type.list-type-splash li i{
+        top:7px;
+    }
+    .section-list-wrap article{
+        max-width: 100%;
+    }
+    .highlights .grid-col-row{
+        flex-wrap: wrap;
+    }
+    .highlights .item-example{
+        flex-basis: 80%;
+    }
+    .highlights .item-example p, p{
+        font-size: 14px;
+    }
+    .highlights .item-example h3{
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    .highlights .rectangle{
+        margin: 25px 0;
+    }
+    .app-download .grid-col-row .app-btn-wrap{
+        flex-basis: 95%;
+    }
+    .app-btns a img{
+        max-height: 48px;
+    }
+    .app-download .grid-col-row .app-banner{
+        flex-basis: 100%;
+    }
+    #recent-comments .owl-item ul li h4 {
+        font-size: 16px;
+        color: #333;
+        line-height: 1.25;
+        margin-bottom: 10px;
+    }
+    #recent-comments .owl-item ul li p{
+        line-height: 1.45;
+    }
+    .testimonials{
+        padding: 10px;
+        max-width: 90%;
+    }
+    .quote-icon {
+        position: absolute;
+        top: -20px;
+        left: -20px;
+        width: 45px;
+        height: 45px;
+    }
+    .testimonial-text{
+        font-size: 20px;
+    }
+    .mobile .sticky .nav>ul ul{
+        display: none;
+    }
+    .mobile .sticky .nav>ul{
+        box-shadow: none;
+        width: 100%;
+    }
+    .grid-contact {
+        width: 50%;
+    }
+    .grid-contact:last-child{
+        width: 100%;
+    }
+    .subscribe form input {
+        width: 100%;
+        margin-bottom: 12px;
+        height: 41px;
+    }
+    .m-data-wrap table{
+        border:none;
+        display: table;
+    }
+    .m-data-wrap table th{
+        white-space: nowrap;
+        vertical-align: middle;
+    }
+    .m-data-wrap table th label{
+        margin-bottom: 0;
+    }
+    .m-data-wrap table tr td:first-child{
+        white-space: nowrap;
+    }
+    .m-data-wrap table tr{
+        min-width: 100%;
+    }
+    .m-data-wrap .table-responsive{
+        border:1px solid #ccc;
+    }
+    .lr-section{
+        margin-top: 20px;
+    }
+    .login-icon{
+        margin: 0 auto;
+        width: 100px;
+        height: 100px;
+        margin-bottom: 25px;
+        border-radius: 50%;
+    }
+    .lr-section .tab-content{
+        padding:20px;
+    }
+    .login-icon svg{
+        width: 50px;
+        height: 50px;
+    }
+    .page-banner{
+        margin-top: 70px;
+    }
+    .page-banner h2{
+        font-size: 24px;
+    }
+    .research-sec1{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .rs-list{
+        flex-basis: 100%;
+        margin-top: 15px;
+    }
+    .rs-img{
+        flex-basis: 50%;
+        padding: 25px 0;
+        margin-top: 15px;
+    }
+}
